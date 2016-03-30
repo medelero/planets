@@ -1,5 +1,8 @@
 Dracula again
 I am Dracula and I am modifying the first line.
+
+hello
+
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman.
 BUt the Mummy will appreciate the lack of humidity.
